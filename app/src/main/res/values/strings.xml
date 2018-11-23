@@ -1,0 +1,72 @@
+<resources>
+    <string name="pref_transport">Transport</string>
+    <string name="pref_transport_udp">UDP</string>
+    <string name="pref_transport_tcp">TCP</string>
+    <string name="pref_transport_tls">TLS</string>
+
+    <!-- Custom -->
+    <string name="service_name">Linphone Service</string>
+    <string name="addressbook_label">Linphone</string>
+    <string name="notification_title">Linphone</string>
+    <string name="wait_dialog_text">Starting up</string>
+    <string name="notification_registered">%s registered</string>
+    <string name="notification_register_failure">%s failed to register</string>
+    <string name="tunnel_host"></string>
+    <string name="about_version">Linphone Android %s</string>
+    <string name="about_liblinphone_version">Linphone Core %s</string>
+    <string name="about_text">GNU General Public License V2\n © 2010-2016 Belledonne Communications</string>
+    <string name="about_link">www.linphone.org</string>
+    <string name="sync_account_name">linphone contacts</string>
+    <string name="history_date_format">EEE, d MMM</string>
+    <string name="history_detail_date_format">yyyy/MM/dd - HH:mm - </string>
+    <string name="inapp_popup_date_format">yyyy/MM/dd</string>
+    <string name="inapp_popup_date_day">dd</string>
+    <string name="messages_date_format">dd/MM, HH:mm</string>
+    <string name="messages_list_date_format">dd/MM</string>
+    <string name="today_date_format">HH:mm</string>
+
+    <!-- Common -->
+    <string name="username">Username</string>
+    <string name="phone_number">Phone number</string>
+    <string name="display_name">Display name</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Password confirmation</string>
+    <string name="domain">Domain</string>
+    <string name="remote_provisioning_url">URL</string>
+    <string name="email">Email</string>
+    <string name="delete_text">Are you sure you want to delete your selection?</string>
+    <string name="delete">Delete</string>
+    <string name="retry">Retry</string>
+    <string name="cancel">Cancel</string>
+    <string name="accept">Accept</string>
+    <string name="continue_text">Continue</string>
+    <string name="about">About</string>
+    <string name="deny">Deny</string>
+    <string name="no_account">No account configured</string>
+    <string name="search">Search</string>
+    <string name="outgoing">Outgoing</string>
+    <string name="incoming">Incoming</string>
+    <string name="missed">Missed</string>
+    <string name="settings">Settings</string>
+    <string name="connect">Connection</string>
+    <string name="decline">Decline</string>
+    <string name="conference">Conference</string>
+    <string name="link">Link</string>
+    <string name="link_account_popup">Do you want to link the account %s with your phone number ?</string>
+    <string name="maybe_later">Maybe later</string>
+    <string name="later">Later</string>
+    <string name="no">No</string>
+    <string name="ok">Ok</string>
+    <string name="yes">Yes</string>
+    <string name="link_account">Link your account</string>
+
+    <!-- Service -->
+    <string name="incall_notif_active">Audio call ongoing</string>
+    <string name="incall_notif_paused">Paused call ongoing</string>
+    <string name="incall_notif_video">Video capturing call ongoing</string>
+    <string name="notification_started">started</string>
+    <string name="unread_messages">%i unread messages</string>
+    <string name="missed_calls_notif_title">Missed call</string>
+    <string name="missed_calls_notif_body">%i missed calls</string>
+    <string name="app_name">linphone</string>
+</resources>
